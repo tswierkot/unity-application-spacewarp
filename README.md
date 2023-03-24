@@ -2,9 +2,14 @@ Feed me a beer (૭ ◉༬◉)૭⁾⁾⁾⁾ [![Donate](https://img.shields.io/
   
 # Application Spacewarp Template Project
   
-Project is preconfigured with ASW for the Oculus Quest 1 &amp; 2 using a custom render pipeline 
+Project is preconfigured with AppSW for the Oculus Quest 1 &amp; 2 using a custom render pipeline 
 
 ![screenshot](https://raw.githubusercontent.com/nukadelic/unity-application-spacewarp/master/Img/screenshot.png)
+
+### Update (Mar-2023)
+
++ Updated to Unity version to 2021.3.21f1
++ Updated URP version to 12.1.10 (with AppSW support)
 
 ### Update (Jan-2023)
 
@@ -48,6 +53,6 @@ For faster builds you can swap to the Mono Scripting backend in `Project Setting
   
 ### Links 
 
-* ASW Developer Guide : https://developer.oculus.com/documentation/unity/unity-asw
+* AppSW Developer Guide : https://developer.oculus.com/documentation/unity/unity-asw
 * Video Lecture [Asynchronous Timewarp & Spacewarp for VR | Bonnie Mathew 2017](https://www.youtube.com/watch?v=gqVIJtRjtr8)
-* [how to diagnose and fix common issues with ASW-enabled apps](https://github.com/oculus-samples/Unity-AppSpaceWarp)
+* [how to diagnose and fix common issues with AppSW-enabled apps](https://github.com/oculus-samples/Unity-AppSpaceWarp)
